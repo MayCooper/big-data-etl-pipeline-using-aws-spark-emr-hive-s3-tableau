@@ -96,12 +96,14 @@ The diagram above outlines the architecture of the ETL pipeline, illustrating ho
 ![image](https://github.com/user-attachments/assets/fa5486ff-d5d6-40c5-8eb2-c4c9af793dcb)
 
 #### Connecting Tableau to the data through the EMR Connector:
-![image](https://github.com/user-attachments/assets/cc532354-52e2-44da-8976-59641f79954f)
-![image](https://github.com/user-attachments/assets/d6672cd8-2fa2-4dee-9317-237c9dfc474f)
-![image](https://github.com/user-attachments/assets/a20d36bb-9f82-4afd-8845-7d4647cb9722)
+![image](https://github.com/user-attachments/assets/a45729bb-d3e0-4b06-8dbf-b7d671a62e49)
+![image](https://github.com/user-attachments/assets/575e2bd9-d457-4c65-a71e-d315aa767493)
+![image](https://github.com/user-attachments/assets/24ff5151-8703-4dc5-88e8-fefded13da2d)
 
 #### Setting up data tables: 
-![image](https://github.com/user-attachments/assets/7fc1b68b-971a-4365-8f3a-195aab7a551e)
+![image](https://github.com/user-attachments/assets/7a70bb09-e654-4c0e-973b-b1e22724b2c0)
+![image](https://github.com/user-attachments/assets/8e3e1635-18e9-4acf-a9fa-638338383042)
+
 
 #### Beginning the visualization work:
 ![image](https://github.com/user-attachments/assets/41bcf105-74df-4776-bd7c-61648f768505)
