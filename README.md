@@ -110,3 +110,11 @@ The diagram above outlines the architecture of the ETL pipeline, illustrating ho
 
 #### Dashboard:
 ![image](https://github.com/user-attachments/assets/f06e7b13-b782-473e-985d-bf47e23a960f)
+
+<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+
+
+<tableau-viz id="tableauViz"       
+  src='https://public.tableau.com/views/RetailSalesDashboard_17281084409940/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'      
+  toolbar="bottom" hide-tabs>
+</tableau-viz>
